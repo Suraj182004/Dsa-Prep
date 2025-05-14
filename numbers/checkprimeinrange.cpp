@@ -29,6 +29,7 @@ int main(){
     int a,b;
     cin>>a>>b;
     PrintPrimesbwrange(a,b);
+    cout<<endl;
     return 0;
 
 }
